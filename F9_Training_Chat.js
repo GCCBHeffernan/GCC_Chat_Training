@@ -103,7 +103,7 @@ var options = {
 	"showProfiles": false,
 	"autostart": true,
 	"profileLabel": "Chat - Training",
-	"theme": "https://brheffernan.github.io/F9_ChatTraining/Training_ChatStyle.css",
+	"theme": "/F9_ChatTraining/Training_ChatStyle.css",
 	"logo": "https://banyanhill.com/wp-content/uploads/2018/12/banyan-logo-New_white.png",
 	"surveyOptions": {
 		"showComment": false,
@@ -128,5 +128,5 @@ Five9SocialWidget.addWidget(options);
 
 //To be removed before publishing
 
-// https://brheffernan.github.io/F9_ChatStyle/BNH_ChatStyle.css
+// https://brheffernan.github.io/F9_ChatTraining/BNH_ChatStyle.css
 //lime-time.css
