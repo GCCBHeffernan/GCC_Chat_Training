@@ -103,7 +103,7 @@ var options = {
 	"showProfiles": false,
 	"autostart": true,
 	"profileLabel": "Chat - Training",
-	"theme": "/F9_ChatTraining/Training_ChatStyle.css",
+	"theme": "/GCC_Chat_Training/Training_ChatStyle.css",
 	"logo": "https://banyanhill.com/wp-content/uploads/2018/12/banyan-logo-New_white.png",
 	"surveyOptions": {
 		"showComment": false,
