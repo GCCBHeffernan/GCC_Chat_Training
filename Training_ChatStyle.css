@@ -42,12 +42,12 @@ textarea:focus:not(.validation-error) {
 
 /*Chat header behind logo*/
 .fill-logo {
-	background-color: #0B717A !important;	
+	background-color: #285E38 !important;	
 }
 
 .ui-header {
     border-width: 0 !important;
-    background-color: #0B717A !important;
+    background-color: #285E38 !important;
 }
 
 
