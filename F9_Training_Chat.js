@@ -104,7 +104,7 @@ var options = {
 	"autostart": true,
 	"profileLabel": "Chat - Training",
 	"theme": "https://gccbheffernan.github.io/GCC_Chat_Training/Training_ChatStyle.css",
-	"logo": "https://14westit.sharepoint.com/:i:/r/sites/GCCClients/Shared%20Documents/GCC/ECC%20Branding/SM%20Logos%20Diff%20File%20Types/PNG/White/ECC%20Mark_White.png?csf=1&web=1&e=QIKMjT",
+	"logo": "https://gccbheffernan.github.io/GCC_Chat_Training/ECC_Mark_White.png",
 // 	"logo": "https://banyanhill.com/wp-content/uploads/2018/12/banyan-logo-New_white.png",
 	"surveyOptions": {
 		"showComment": false,
