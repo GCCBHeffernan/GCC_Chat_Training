@@ -103,8 +103,8 @@ var options = {
 	"showProfiles": false,
 	"autostart": true,
 	"profileLabel": "Chat - Training",
-	"theme": "https://gccbheffernan.github.io/GCC_Chat_Training/Training_ChatStyle.css",
-	"logo": "https://gccbheffernan.github.io/GCC_Chat_Training/ECC_Logo_White.png",
+	"theme": "Training_ChatStyle.css",
+	"logo": "ECC_Logo_White.png",
 // 	"logo": "https://banyanhill.com/wp-content/uploads/2018/12/banyan-logo-New_white.png",
 	"surveyOptions": {
 		"showComment": false,
@@ -127,7 +127,3 @@ var options = {
 Five9SocialWidget.addWidget(options);
 
 
-//To be removed before publishing
-
-// https://brheffernan.github.io/F9_ChatTraining/BNH_ChatStyle.css
-//lime-time.css
