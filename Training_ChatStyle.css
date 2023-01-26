@@ -78,14 +78,14 @@ textarea:hover:not(.validation-error) {
 .loading-image {
     width: 100%;
     height: 200px;
-    background-image: url(F9_Training_Chat_Loader.svg);
+    background-image: url(https://gccbheffernan.github.io/GCC_Chat_Training/F9_Training_Chat_Loader.svg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: 200px 200px;
 }
 
 /*Service unavailable message*/
-.chat-sad-image {
+/*.chat-sad-image {
     width: 100%;
     height: 200px;
     background-image: url(../../Common/images/chat-sad.png);
@@ -93,3 +93,4 @@ textarea:hover:not(.validation-error) {
     background-repeat: no-repeat;
     background-size: 200px 200px;
 }
+*/
