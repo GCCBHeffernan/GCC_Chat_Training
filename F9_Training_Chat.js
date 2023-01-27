@@ -104,7 +104,7 @@ var options = {
 	"autostart": true,
 	"profileLabel": "Chat - Training",
 	"theme": "https://gccbheffernan.github.io/GCC_Chat_Training/Training_ChatStyle.css",
-	"logo": "ECC_Logo_White.png",
+	"logo": "https://gccbheffernan.github.io/GCC_Chat_Training/ECC_Logo_White.png",
 	"surveyOptions": {
 		"showComment": false,
 		"requireComment": false
