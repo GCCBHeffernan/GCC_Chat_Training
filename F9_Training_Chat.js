@@ -103,9 +103,8 @@ var options = {
 	"showProfiles": false,
 	"autostart": true,
 	"profileLabel": "Chat - Training",
-	"theme": "Training_ChatStyle.css",
+	"theme": "https://gccbheffernan.github.io/GCC_Chat_Training/Training_ChatStyle.css",
 	"logo": "ECC_Logo_White.png",
-// 	"logo": "https://banyanhill.com/wp-content/uploads/2018/12/banyan-logo-New_white.png",
 	"surveyOptions": {
 		"showComment": false,
 		"requireComment": false
