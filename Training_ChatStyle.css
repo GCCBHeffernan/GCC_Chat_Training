@@ -1,87 +1,66 @@
 /*Hide provider message from Five9*/
-
-.provider-text {
-    display: none;
+ .provider-text {
+     display: none;
 }
-
 /*Minimized and Maximized "Chat Now"/"Chat" button*/
-
-.five9-chat-button {
-	background-color: #418940 !important;
-	background: #418940 !important;
+ .five9-chat-button {
+     background-color: #418940 !important;
+     background: #418940 !important;
 }
-
-
 /*"Start Chat" Inside Chat Form*/
-
-.five9-action-btn {
-    border: 1px solid #1e6a91 !important;
-    background-color: #418940 !important;
-    color: #fff !important;
+ .five9-action-btn {
+     border: 1px solid #1e6a91 !important;
+     background-color: #418940 !important;
+     color: #fff !important;
 }
-
-.five9-action-btn:focus:not(disabled) {
-    outline: none;
-    box-shadow: 0 0 6px 0 #418940 !important;
-    background-color: #418940 !important;
+ .five9-action-btn:focus:not(disabled) {
+     outline: none;
+     box-shadow: 0 0 6px 0 #418940 !important;
+     background-color: #418940 !important;
 }
-
-
-.five9-action-btn:hover:not(disabled) {
-    background-color: #418940 !important;
+ .five9-action-btn:hover:not(disabled) {
+     background-color: #418940 !important;
 }
-
-
 /*Chat header behind logo*/
-.fill-logo {
-	background-color: #285E38 !important;	
+ .fill-logo {
+     background-color: #285E38 !important;
 }
-
-.ui-header {
-    border-width: 0 !important;
-    background-color: #285E38 !important;
+ .ui-header {
+     border-width: 0 !important;
+     background-color: #285E38 !important;
+     color: #fff !important;
 }
-
-
 /*Highlighting around fields for the chat sumbission form*/
-legend,
-.ui-input-text input,
-.ui-input-search input {
-    color: inherit;
-    text-shadow: inherit;
+ legend, .ui-input-text input, .ui-input-search input {
+     color: inherit;
+     text-shadow: inherit;
 }
-
-.ui-input-text input,
-.ui-input-search input {
-    background-color: #fff !important;
+ .ui-input-text input, .ui-input-search input {
+     background-color: #fff !important;
 }
-
-.ui-input-text:not(.validation-error),
-textarea:not(.validation-error) {
-    border: 1px solid #cccece !important;
+ .ui-input-text:not(.validation-error), textarea:not(.validation-error) {
+     border: 1px solid #cccece !important;
 }
-.ui-input-text:hover:not(.validation-error),
-textarea:hover:not(.validation-error) {
-    border: 1px solid #418940 !important;
-    outline: 0 !important;
+ .ui-input-text:hover:not(.validation-error), textarea:hover:not(.validation-error) {
+     border: 1px solid #418940 !important;
+     outline: 0 !important;
 }
-
 /*Loading icon before form is pulled to client side*/
-div.loading-image {
-  width: 100%;
-  height: 200px;
-  background-image: url("F9_Training_Chat_Loader.svg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: 200px 200px;
+ div.loading-image {
+     width: 100%;
+     height: 200px;
+     background-image: url("F9_Training_Chat_Loader.svg");
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: 200px 200px;
 }
-
 /*Service unavailable message*/
-.chat-sad-image {
-    width: 100%;
-    height: 200px;
-    background-image: url(../../Common/images/chat-sad.png);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: 200px 200px;
+ .chat-sad-image {
+     width: 100%;
+     height: 200px;
+     background-image: url(../../Common/images/chat-sad.png);
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: 200px 200px;
 }
+ 
